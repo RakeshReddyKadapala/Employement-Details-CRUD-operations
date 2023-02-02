@@ -4,4 +4,4 @@ Crud operations for Employement Details with Node Js, Express Js, Postman and Mo
 in package.json add  below line
 "start": "nodemon app.js"
 
-to run server node app.js
+to run server node app.js or npm start using nodemon
